@@ -7,9 +7,12 @@
 <li>BoardingPass</li>
 <li>CRUD opertations</li>
   <li>Tech stack
-    <ul><li>Nodejs</li>
-    <li>express</li>
-    <li>mongodb</li>
-    <li></li>
-    <li></li></ul></li>
+    <ul>
+    <li>Nodejs</li>
+    <li>Express</li>
+    <li>MongoDB</li>
+    <li>JWT</li>
+    <li>Mongoose</li>
+    </ul>
+  </li>
 </ul>

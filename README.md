@@ -1,7 +1,7 @@
 <h1>AirLineBookingSystem</h1>
 <h2>Features</h2>
 <ul>
-<li>authentication and authorization </li>
+<li>Authentication and Authorization </li>
 <li>Booking</li>
 <li>Flight Search</li>
 <li>BoardingPass</li>
